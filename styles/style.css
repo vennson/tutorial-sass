@@ -1,0 +1,16 @@
+header, .contact {
+  height: 100vh;
+  color: rgb(43, 43, 43);
+  background-color: lightblue;
+}
+header button, .contact button {
+  background: rgb(56, 146, 142);
+}
+header button::after, .contact button::after {
+  content: "Hellooo";
+}
+
+.contact {
+  background: lightcoral;
+  width: 80%;
+}/*# sourceMappingURL=style.css.map */
